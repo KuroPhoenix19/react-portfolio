@@ -651,7 +651,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/architecture-building-infrastructure-sunset-silhouette-skyline.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -668,7 +668,7 @@ call-to-action .button {
 #testimonials h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
-   letter-spacing: 3px;
+   letter-spacing: 4px;
    color: #fff;
 }
 #testimonials h1 span { display: none; }
@@ -701,7 +701,7 @@ call-to-action .button {
 }
 #testimonials blockquote cite {
    display: block;
-   font-size: 12px;
+   font-size: 18px;
    font-style: normal;
    line-height: 18px;
    color: #fff;
