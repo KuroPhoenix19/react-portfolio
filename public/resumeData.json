@@ -15,7 +15,7 @@
       "zip": "95064"
     },
     "website": "Work in Progress",
-    "resumedownload": "coming soon",
+    "resumedownload": "Email for a copy",
     "social": [
       
       {
@@ -56,11 +56,11 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "0%"
+        "level": "10%"
       },
       {
         "name": "Python",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "Git",
@@ -72,11 +72,11 @@
       },
       {
         "name": "HTML5",
-        "level": "40%"
+        "level": "50%"
       },
       {
         "name": "C",
-        "level": "0%"
+        "level": "45%"
       }
     ]
   },
